@@ -16,4 +16,4 @@ TypeScript · React · Next.js · Node.js · Tailwind CSS · PostgreSQL · BigQu
 
 **Find me**
 
-[seb.scholten.sh](https://seb.scholten.sh) · [LinkedIn](https://www.linkedin.com/in/sebastianscholten)
+[seb.scholten.sh](https://seb.scholten.sh) · [LinkedIn](https://www.linkedin.com/in/scholtenseb)
